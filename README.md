@@ -1,2 +1,3 @@
 # SensBack
-Ergonomic detection using machine learning.
+
+Ergonomic back detection using machine learning.
